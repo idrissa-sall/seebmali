@@ -1,0 +1,23 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    background-color: gray ;
+}
+
+h4 + p
+{
+    color: black;
+}
+
+#red
+{
+    color: white;
+    background-color: brown;
+}
+
+#black
+{
+    color: white;
+    background-color: black;
+}
